@@ -211,7 +211,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💬 Issues: [GitHub Issues](https://github.com/yourusername/solstice_scrapegraph/issues)
 - 📖 Documentation: [Coming Soon]
 
-## Acknowledgments
+## Acknowledgments and Attribution
+This project is inspired by and reuses components from [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) (MIT License). 
+Original copyrights and license notices are retained in relevant files.
+This project is independent and not affiliated with ScrapeGraphAI.
 
 Built with ❤️ by the Solstice Team, powered by:
 - [LangChain](https://langchain.com/) for LLM integration
